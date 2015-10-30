@@ -1,0 +1,5 @@
+!obj:yaml_tutorial.autoencoder.AutoEncoder {
+   "nvis": 784,
+   "nhid": 100,
+   "iscale": 0.2,
+}
